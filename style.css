@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height:100vh ;
+    flex-direction: column;
+}
+.container{
+    background-color: rgb(199, 235, 217);
+    padding: 20px;
+}
+.timer{
+    font-size: 50px;
+    font-weight: 500;
+}
+.btn{
+    margin-top: 20px;
+}
+.bt{
+    font-size: 20px;
+    background-color: rgba(54, 71, 65, 0.455);
+    border: none;
+    padding: 10px;
+    margin-inline: 10px;
+    border-radius: 10px;
+}
